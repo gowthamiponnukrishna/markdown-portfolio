@@ -1,2 +1,6 @@
-Favourite colour: Red :heart:
- Place where I want to go : Maldives 🏖️
+## * Favourite Colours
+- Red ❤️
+- Black 🖤
+## * #Favourite Places where I want to go
+- Maldives 🏖️
+- Paris 🗼

@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+Favourite colour: Red :heart:
+ Place where I want to go : Maldives 🏖️
